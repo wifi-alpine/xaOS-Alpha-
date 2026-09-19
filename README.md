@@ -1,11 +1,10 @@
+# xaOS
 <p align="center">
   <img src="Sans titre 63_20260918183557.png" alt="xaOS Logo" width="500">
 </p>
-
-xaOS
 «A Linux distribution being redesigned from the ground up.»
 
-xaOS is an experimental Linux operating system inspired by Artix Linux.
+is an experimental Linux operating system inspired by Artix Linux.
 
 The current version uses an alias-based design, providing a consistent interface over existing Linux tools and components.
 
