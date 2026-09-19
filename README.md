@@ -78,5 +78,5 @@ Goals
 
 ---
 
-xaOS — You are the OS
+xaOS — You are the OS!
 
