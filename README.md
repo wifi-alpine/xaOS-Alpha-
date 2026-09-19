@@ -78,4 +78,5 @@ Goals
 
 ---
 
-xaOS — Linux, redesigned.
+xaOS — You are the OS
+
