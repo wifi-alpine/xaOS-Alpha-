@@ -4,19 +4,18 @@
 </p>
 «A Linux distribution being redesigned from the ground up.»
 
-is an experimental Linux operating system inspired by Artix Linux.
+is an experimental Linux operating system inspired by Arch Linux.
 
 The current version uses an alias-based design, providing a consistent interface over existing Linux tools and components.
 
 Current design
 
-xaOS currently follows an Artix-inspired philosophy:
+xaOS currently follows an Arch-inspired philosophy:
 
 - 🐧 Linux-based
 - ⚡ Lightweight
 - 🧩 Modular
 - 🔧 User-controlled
-- 🚫 No systemd by default
 - 🖥️ Custom user experience
 - 🔗 Alias-based system commands
 
@@ -29,17 +28,15 @@ xa search firefox
 
 The aliases provide a simple interface while the underlying Linux tools remain accessible.
 
-Inspired by Artix
+Inspired by Arch
 
-xaOS takes inspiration from "Artix Linux" (https://artixlinux.org/), particularly its approach to:
+xaOS takes inspiration from "Arch Linux" (https://archlinux.org/), particularly its approach to:
 
-- Alternative init systems
-- Avoiding systemd
 - Lightweight system design
 - User control
-- Arch Linux compatibility
 
-xaOS is not intended to simply be a rebrand of Artix. Its goal is to develop its own tooling, conventions, defaults, and eventually its own architecture.
+
+xaOS is not intended to simply be a rebrand of Arch. Its goal is to develop its own tooling, conventions, defaults, and eventually its own architecture.
 
 Future architecture
 
