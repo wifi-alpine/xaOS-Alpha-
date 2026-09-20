@@ -38,7 +38,7 @@ xaOS takes inspiration from "Arch Linux" (https://archlinux.org/), particularly 
 
 xaOS is not intended to simply be a rebrand of Arch. Its goal is to develop its own tooling, conventions, defaults, and eventually its own architecture.
 
-Future architecture
+Future architecture ( maybe in ver 1.0 )
 
 The current alias-based design is temporary.
 
