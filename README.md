@@ -50,4 +50,6 @@ Build a genuinely modular operating system
 Experiment with new approaches to Linux system design
 
 DEBLOAT 🤤
+
+---
 xaOS — You are the OS!
