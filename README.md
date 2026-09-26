@@ -63,5 +63,19 @@ DEBLOAT 🤤
  /      \\          \\
 /        \\          \\
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 xaOS — You are the OS!
