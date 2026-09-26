@@ -51,5 +51,17 @@ Experiment with new approaches to Linux system design
 
 DEBLOAT 🤤
 
+
+\\        /\\
+ \\      /  \\
+  \\    /    \\
+   \\  /      \\
+    \\/        \\
+    /\\          \\
+   /  \\          \\
+  /    \\          \\
+ /      \\          \\
+/        \\          \\
+
 ---
 xaOS — You are the OS!
