@@ -51,6 +51,12 @@ Experiment with new approaches to Linux system design
 
 DEBLOAT 🤤
 
+username : xaos
+PASSWORD: xaos
+
+
+
+
 
 \\        /\\
  \\      /  \\
