@@ -51,7 +51,9 @@ Experiment with new approaches to Linux system design
 
 DEBLOAT 🤤
 
-username : xaos
+
+sudo xa-installer
+USERNAME : xaos
 PASSWORD: xaos
 
 
